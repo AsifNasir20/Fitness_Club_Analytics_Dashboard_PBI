@@ -1,3 +1,4 @@
+
 # 🏋️ Fitness Club Analytics Dashboard | Power BI
 
 ## 📌 Project Overview
@@ -7,6 +8,31 @@ An interactive **Fitness Club Analytics Dashboard** developed using Microsoft Po
 This project focuses on transforming fitness club data into meaningful business insights through interactive visualisations, dynamic titles, DAX calculations, and user-friendly report navigation.
 
 The project was completed as part of my self-learning journey in Power BI, following a practical tutorial and implementing the concepts through hands-on practice.
+
+## 🖼️ Dashboard Preview
+
+The dashboard consists of four interactive pages covering overall business performance, membership analysis, member demographics, and fitness calculations.
+
+**Dashboard Screenshots:**
+
+### 1. Home Page
+![Home Dashboard](Dashboard_Images/Home.png)
+
+### 2. Overall Dashboard
+![Overall Dashboard](Dashboard_Images/Overview.png)
+
+### 3. Members Dashboard
+![Members Dashboard](Dashboard_Images/Members.png)
+
+### 4. Fitness Calculator
+![Fitness Calculator](Dashboard_Images/Calculator.png)
+
+**Dashboard Image Paths:**
+
+- Home: `Dashboard_Images/Home.png`
+- Overview: `Dashboard_Images/Overview.png`
+- Members: `Dashboard_Images/Members.png`
+- Calculator: `Dashboard_Images/Calculator.png`
 
 ## 🎯 Project Objectives
 
@@ -20,10 +46,12 @@ The project was completed as part of my self-learning journey in Power BI, follo
 ## 📊 Dashboard Pages & Features
 
 ### 1. Home Page
+
 - Interactive landing page for dashboard navigation.
 - Easy access to different analytical sections.
 
 ### 2. Overall Dashboard
+
 - **Membership Overview:** Monitor total members and membership categories.
 - **Membership Analysis:** Analyse active and expired memberships across Silver, Gold, and Platinum categories.
 - **Monthly Member Acquisition:** Track monthly membership trends using a column chart.
@@ -31,6 +59,7 @@ The project was completed as part of my self-learning journey in Power BI, follo
 - **Latest Data Refresh:** Display the last refresh date dynamically.
 
 ### 3. Members Dashboard
+
 - Member-level details and membership information.
 - Age category analysis segmented by gender.
 - Member distribution by membership status.
@@ -38,6 +67,7 @@ The project was completed as part of my self-learning journey in Power BI, follo
 - Interactive filters for exploring member information.
 
 ### 4. Fitness Calculator
+
 - BMI calculation and visualisation.
 - TDEE (Total Daily Energy Expenditure) analysis.
 - Daily calorie requirements for maintaining weight.
@@ -67,17 +97,17 @@ Applied DAX to develop dynamic calculations and improve dashboard interactivity.
 - **Dynamic Refresh Date:** Displayed the latest data refresh date using DAX.
 - **Dynamic Maximum & Minimum Selection:** Implemented maximum and minimum value selection within the monthly member acquisition bar chart to focus on specific data points.
 - **Interactive Filtering:** Used slicers and visual interactions to explore data across different categories.
-- **Conditional Logic:** Applied SWITCH(TRUE()) and IF() to create flexible analytical measures.
+- **Conditional Logic:** Applied `SWITCH(TRUE())` and `IF()` to create flexible analytical measures.
 
 ## 💡 Key Learning Outcomes
 
 Through this project, I gained practical experience in:
 
 - Writing and understanding intermediate DAX expressions.
-- Applying filter context through CALCULATE().
+- Applying filter context through `CALCULATE()`.
 - Implementing dynamic visual formatting.
 - Creating dynamic titles and refresh-date indicators.
-- Using iterator functions such as MAXX() and MINX().
+- Using iterator functions such as `MAXX()` and `MINX()`.
 - Building interactive analytical reports.
 - Improving dashboard navigation and user experience.
 - Translating raw business data into meaningful visual insights.
@@ -91,6 +121,8 @@ Through this project, I gained practical experience in:
 | Power BI Slicers | Interactive filtering |
 | Power BI Visuals | Business and fitness analytics |
 
+## 📚 Learning Resource
 
+---
 
 *This project represents my continuous learning and practical application of Power BI, DAX, and business intelligence concepts.*
