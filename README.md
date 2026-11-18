@@ -91,11 +91,6 @@ Through this project, I gained practical experience in:
 | Power BI Slicers | Interactive filtering |
 | Power BI Visuals | Business and fitness analytics |
 
-## 📚 Learning Resource
 
-This project was developed through practical learning and hands-on implementation based on the following YouTube tutorial:
-
-
----
 
 *This project represents my continuous learning and practical application of Power BI, DAX, and business intelligence concepts.*
